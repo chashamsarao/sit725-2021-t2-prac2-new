@@ -4,6 +4,7 @@
   "description": "sit 725 week 2 prac",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
